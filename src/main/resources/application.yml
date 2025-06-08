@@ -1,0 +1,9 @@
+server:
+  port: 8080
+app:
+  images:
+    path: C:/Users/Francisco_Velasco/Desktop/images/
+    url: http://localhost:8080/api/v1/images/
+  security:
+    api:
+      key: 5fb5a408-8d5d-4291-b5b1-02d49ac39fff

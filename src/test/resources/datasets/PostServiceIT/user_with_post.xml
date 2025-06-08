@@ -1,0 +1,5 @@
+<dataset>
+  <user_information id="1212" name="Paul" email="Paul@domain.com"/>
+
+  <posts id="12" description="Some stuff" image_name="1_213.png" user_id="1212"/>
+</dataset>
